@@ -1,0 +1,6 @@
+{
+  "appId": "com.raeesi.daftarkharj",
+  "appName": "دفتر خرج",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
